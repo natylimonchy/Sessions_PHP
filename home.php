@@ -1,6 +1,6 @@
 <?php
-session_start();
-session_unset();
+session_start(); //Se borra el session unset
+
 ?>
 <!DOCTYPE html>
 <html lang="en">
