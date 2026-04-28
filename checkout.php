@@ -5,6 +5,7 @@ if (!isset($_SESSION['user'])) {
     header("Location: login.php");
     exit;
 }
+//cambio de prueba para merge
 
 // Product catalog (same as shop)
 $products = [
